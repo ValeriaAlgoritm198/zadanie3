@@ -1,0 +1,52 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    background-color: lightblue;
+}
+header img{
+    margin: 10px;
+}
+h1{
+    background-color: lightblue;
+    color: blue;
+    text-align: center;
+}
+footer{
+    background-color: lightpink;
+    padding: 10px;
+}
+footer p{
+    background-color: white;
+    margin: 20px;
+    padding: 5px;
+}
+nav a{
+    margin: 20px;    
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+    border: 3px solid navy;
+    border-radius: 10px;
+    background-color: navy;
+}
+.popular{
+    background-color: white;
+    color: royalblue;
+}
+nav{
+    margin: 20px;
+}
+.menu
+{
+    background-color: lightcyan;
+}
+h2{
+    color: blue;
+}
+a {
+    text-decoration: none;
+    border: 1px solid navy;
+    border-radius: 10 px;
+    padding: 5 px;
+} 
